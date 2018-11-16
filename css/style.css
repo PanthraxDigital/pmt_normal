@@ -6847,3 +6847,7 @@ img{
     padding: 8px 19px;
     text-transform: capitalize;
 }
+
+.hideElement{
+	display: none;
+}
